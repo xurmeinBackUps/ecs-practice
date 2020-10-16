@@ -1,0 +1,12 @@
+{
+  "name": "ecs-practice",
+  "version": "1.0.0",
+  "description": "teaching self phaser.js & ecs principles",
+  "main": "index.js",
+  "author": "jake peacock",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "phaser": "^3.24.1"
+  }
+}
